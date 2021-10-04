@@ -1,13 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 15 14:12:50 2019
 
-@author: Cipher.Snowden
-"""
-
-# Spam Filtering
-
-# Importing Libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 
